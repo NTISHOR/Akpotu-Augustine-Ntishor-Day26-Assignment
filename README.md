@@ -1,0 +1,2 @@
+# Akpotu-Augustine-Ntishor-Day26-Assignment
+ - *Topics*:    - Responsive web design basics   - Media queries: min-width, max-width, and breakpoints   - Viewport meta tag - *Practical Learning*:    - Learn to use media queries to change the layout and style of your page based on screen size.   - Experiment with min-width and max-width to control responsiveness. - *Project*:    - Create a basic responsive webpage that adjusts its layout on different screen sizes (e.g., mobile, tablet, and desktop views).
